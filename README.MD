@@ -29,3 +29,7 @@ Abre o postman e teste a API
 
 ![Postman](postman.PNG)
 
+Segundo teste da API 
+
+
+![Postmgetan](get_1.png)
