@@ -19,5 +19,13 @@ source .env/bin/activate
 #instale os pacotes necessarios
 pip install -r requeriments.txt
 
+#rodar o programa
+python app/app.py
 ````
+
+Instale o programa chamado [Postman](https://www.postman.com/)
+
+Abre o postman e teste a API
+
+![Postman](postman.PNG)
 
